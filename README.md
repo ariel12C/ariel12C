@@ -35,7 +35,7 @@
 
 * 💬 Pregúntame sobre **JavaScript, Python, C/C++, SQL, Docker, Automatización con n8n**
 
-* 📫 Puedes contactarme en **[ariel.cayo@example.com](mailto:ariel.cayo@example.com)**
+* 📫 Puedes contactarme en **[ariel.cayo@example.com](mailto:arielcayo526@gmail.com)**
 
 * 🌍 Desde **La Plata, Buenos Aires, Argentina**
 
